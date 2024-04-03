@@ -1,0 +1,33 @@
+.nev {
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+}
+
+.text {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.egy , .ketto {
+    width: 300px;
+    height: 100px;
+    border-width: 5px;
+    border-style:solid;
+    border-color: aqua;
+    padding: 10px;
+    background-color: navajowhite;
+}
+
+.button {
+    position: relative;
+    left: 46vw;
+    margin-top: 40px;
+    font-size: 30px;
+}
